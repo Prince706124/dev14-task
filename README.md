@@ -357,7 +357,7 @@ logging.basicConfig(level=logging.DEBUG)
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## 🙏 Acknowledgments
+## Technologies Used
 
 - **FastAPI** for the excellent Python web framework
 - **React** for the powerful frontend library
@@ -367,4 +367,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ---
 
-**Built with ❤️ for modern web development**
+**Built with ❤️ for Inter IIT Tech Meet 14.0 Dev Team Task**

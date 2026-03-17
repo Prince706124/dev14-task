@@ -1,6 +1,5 @@
-# Comment System
+# Comment 
 
-A modern, responsive commenting system with unlimited nesting levels, real-time interactions, and admin features. Built with React, FastAPI, and Docker.
 
 ## 🚀 Features
 

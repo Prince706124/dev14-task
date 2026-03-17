@@ -1,4 +1,4 @@
-# Nested Comments System
+# Nested Comment System
 
 
 ## 🚀 Features
